@@ -1,5 +1,5 @@
-**ICU_Clustering**
-exploring different clustering algos for sparse ICU data sets
+# ICU_Clustering
+## exploring different clustering algos for sparse ICU data sets
 
 
 First project: involving MOFA2 and KMEANS to detect similar patient subpopulations
